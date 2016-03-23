@@ -27,3 +27,9 @@ ML-to-do-notes.md
 data
 mycert.pem
 incubator
+
+.*~
+mvnw*
+*.iml
+.mvn/
+target/
