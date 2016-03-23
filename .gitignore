@@ -33,3 +33,4 @@ mvnw*
 *.iml
 .mvn/
 target/
+*.log
